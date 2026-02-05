@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MedicalMiniApp\\MedTwinPatient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCE44D3-F67F-E441-EBBF-2724C246B0DE}|MedTwinPatient\\MedTwinPatient.csproj|d:\\medicalminiapp\\medtwinpatient\\medtwinpatient\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8BCE44D3-F67F-E441-EBBF-2724C246B0DE}|MedTwinPatient\\MedTwinPatient.csproj|solutionrelative:medtwinpatient\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCE44D3-F67F-E441-EBBF-2724C246B0DE}|MedTwinPatient\\MedTwinPatient.csproj|d:\\medicalminiapp\\medtwinpatient\\medtwinpatient\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCE44D3-F67F-E441-EBBF-2724C246B0DE}|MedTwinPatient\\MedTwinPatient.csproj|solutionrelative:medtwinpatient\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCE44D3-F67F-E441-EBBF-2724C246B0DE}|MedTwinPatient\\MedTwinPatient.csproj|d:\\medicalminiapp\\medtwinpatient\\medtwinpatient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8BCE44D3-F67F-E441-EBBF-2724C246B0DE}|MedTwinPatient\\MedTwinPatient.csproj|solutionrelative:medtwinpatient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCE44D3-F67F-E441-EBBF-2724C246B0DE}|MedTwinPatient\\MedTwinPatient.csproj|d:\\medicalminiapp\\medtwinpatient\\medtwinpatient\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCE44D3-F67F-E441-EBBF-2724C246B0DE}|MedTwinPatient\\MedTwinPatient.csproj|solutionrelative:medtwinpatient\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCE44D3-F67F-E441-EBBF-2724C246B0DE}|MedTwinPatient\\MedTwinPatient.csproj|d:\\medicalminiapp\\medtwinpatient\\medtwinpatient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCE44D3-F67F-E441-EBBF-2724C246B0DE}|MedTwinPatient\\MedTwinPatient.csproj|solutionrelative:medtwinpatient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCE44D3-F67F-E441-EBBF-2724C246B0DE}|MedTwinPatient\\MedTwinPatient.csproj|d:\\medicalminiapp\\medtwinpatient\\medtwinpatient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8BCE44D3-F67F-E441-EBBF-2724C246B0DE}|MedTwinPatient\\MedTwinPatient.csproj|solutionrelative:medtwinpatient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCE44D3-F67F-E441-EBBF-2724C246B0DE}|MedTwinPatient\\MedTwinPatient.csproj|d:\\medicalminiapp\\medtwinpatient\\medtwinpatient\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCE44D3-F67F-E441-EBBF-2724C246B0DE}|MedTwinPatient\\MedTwinPatient.csproj|solutionrelative:medtwinpatient\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCE44D3-F67F-E441-EBBF-2724C246B0DE}|MedTwinPatient\\MedTwinPatient.csproj|d:\\medicalminiapp\\medtwinpatient\\medtwinpatient\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCE44D3-F67F-E441-EBBF-2724C246B0DE}|MedTwinPatient\\MedTwinPatient.csproj|solutionrelative:medtwinpatient\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\MedicalMiniApp\\MedTwinPatient\\MedTwinPatient\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MedTwinPatient\\App.xaml.cs",
+              "ToolTip": "D:\\MedicalMiniApp\\MedTwinPatient\\MedTwinPatient\\App.xaml.cs",
+              "RelativeToolTip": "MedTwinPatient\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T14:04:08.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\MedicalMiniApp\\MedTwinPatient\\MedTwinPatient\\App.xaml",
+              "RelativeDocumentMoniker": "MedTwinPatient\\App.xaml",
+              "ToolTip": "D:\\MedicalMiniApp\\MedTwinPatient\\MedTwinPatient\\App.xaml",
+              "RelativeToolTip": "MedTwinPatient\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-05T14:04:00.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\MedicalMiniApp\\MedTwinPatient\\MedTwinPatient\\Login.xaml",
+              "RelativeDocumentMoniker": "MedTwinPatient\\Login.xaml",
+              "ToolTip": "D:\\MedicalMiniApp\\MedTwinPatient\\MedTwinPatient\\Login.xaml",
+              "RelativeToolTip": "MedTwinPatient\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-05T13:58:02.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "D:\\MedicalMiniApp\\MedTwinPatient\\MedTwinPatient\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "MedTwinPatient\\Login.xaml.cs",
+              "ToolTip": "D:\\MedicalMiniApp\\MedTwinPatient\\MedTwinPatient\\Login.xaml.cs",
+              "RelativeToolTip": "MedTwinPatient\\Login.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAzwDYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:58:09.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\MedicalMiniApp\\MedTwinPatient\\MedTwinPatient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MedTwinPatient\\MainWindow.xaml",
+              "ToolTip": "D:\\MedicalMiniApp\\MedTwinPatient\\MedTwinPatient\\MainWindow.xaml",
+              "RelativeToolTip": "MedTwinPatient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-05T13:55:04.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\MedicalMiniApp\\MedTwinPatient\\MedTwinPatient\\Doctor.cs",
+              "RelativeDocumentMoniker": "MedTwinPatient\\Doctor.cs",
+              "ToolTip": "D:\\MedicalMiniApp\\MedTwinPatient\\MedTwinPatient\\Doctor.cs",
+              "RelativeToolTip": "MedTwinPatient\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:51:16.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\MedicalMiniApp\\MedTwinPatient\\MedTwinPatient\\Patient.cs",
+              "RelativeDocumentMoniker": "MedTwinPatient\\Patient.cs",
+              "ToolTip": "D:\\MedicalMiniApp\\MedTwinPatient\\MedTwinPatient\\Patient.cs",
+              "RelativeToolTip": "MedTwinPatient\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T10:50:15.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\MedicalMiniApp\\MedTwinPatient\\MedTwinPatient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MedTwinPatient\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\MedicalMiniApp\\MedTwinPatient\\MedTwinPatient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MedTwinPatient\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T12:38:05.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

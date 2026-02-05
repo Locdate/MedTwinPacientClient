@@ -1,0 +1,18 @@
+﻿<Window x:Class="MedTwinPatient.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MedTwinPatient"
+        mc:Ignorable="d"
+        Title="MedTwinPacientDesktop" Height="400" Width="500">
+    <Grid>
+        <Label Content="Login" HorizontalAlignment="Center" Margin="0,50,0,0" VerticalAlignment="Top" FontSize="40"/>
+        <Label Content="Login:" HorizontalAlignment="Center" Margin="0,0,220,0" VerticalAlignment="Center" FontSize="20"/>
+        <Label Content="Password:" HorizontalAlignment="Center" Margin="0,120,250,0" VerticalAlignment="Center" FontSize="20"/>
+        <TextBox x:Name="loginTextBox" HorizontalAlignment="Center" Margin="80,0,0,0" TextWrapping="NoWrap" VerticalAlignment="Center" Width="220" Height="30" FontSize="18"/>
+        <TextBox x:Name="passwordTextBox" HorizontalAlignment="Center" Margin="80,120,0,0" TextWrapping="NoWrap" VerticalAlignment="Center" Width="220" Height="30" FontSize="18"/>
+        <Button x:Name="loginButton" Content="Enter" HorizontalAlignment="Center" Margin="0,0,0,40" VerticalAlignment="Bottom" Click="Button_Click" FontSize="18" Height="30" Width="140"/>
+
+    </Grid>
+</Window>
